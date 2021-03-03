@@ -4,8 +4,6 @@
 #ifndef NODE_H
 #define NODE_H
 
-#include "DVD.h"
-
 template <typename S>
 class Node {
 private:
